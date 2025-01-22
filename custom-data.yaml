@@ -1,0 +1,7 @@
+train: dataset/train/images
+val: dataset/val/images
+test: dataset/test/images
+
+nc: 9
+
+names: [ 'custard apple', 'capsicum', 'green apple', 'lemon', 'orange', 'pomegranate', 'pine apple', 'brocolli', 'cauliflower' ]
